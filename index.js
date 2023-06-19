@@ -157,5 +157,15 @@ $(document).ready(function(){
 });
 
 
+function fun() {  
+  
+  
+  alert ("Do you want to Accept the invitation");  
+}  
 
 
+function fun1() {  
+  
+  
+  alert ("Do you want to Follow the page");  
+}  
